@@ -1,2 +1,2 @@
 # practicando-git
-practicas del curso de edteam 2020
+practicas del curso git
